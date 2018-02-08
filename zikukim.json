@@ -1,0 +1,20 @@
+{
+	"about": "This is about Zikukim",
+	"member": [
+		{
+			"name": "David",
+			"description": "An old dancer"
+		}
+	],
+	"video": [
+		{
+			"url": "https://www.youtube.com/embed/oHg5SJYRHA0"
+		}
+	],
+	"performance": [
+		{}
+	],
+	"alumni": [
+		{}
+	]
+}
