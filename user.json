@@ -2,5 +2,8 @@
 	"me": {},
 	"checkInTime": 1,
 	"name": "David",
-	"changeme": true
+	"changeme": true,
+	"nome": [
+		"David"
+	]
 }
