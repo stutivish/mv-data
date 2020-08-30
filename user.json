@@ -1,10 +1,8 @@
 {
 	"me": {},
 	"checkInTime": 1,
-	"name": [
-		"David"
-	],
-	"changeme": true,
+	"name": "David",
+	"changeme": false,
 	"nome": [
 		"David"
 	]
