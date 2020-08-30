@@ -1,5 +1,6 @@
 {
 	"me": {},
 	"checkInTime": 1,
-	"name": "David"
+	"name": "David",
+	"changeme": true
 }
