@@ -1,6 +1,6 @@
 {
 	"showMine": false,
-	"selection": 2,
+	"selection": 3,
 	"todo": [
 		{
 			"title": "Handstand Scheduling",
@@ -17,22 +17,10 @@
 			]
 		},
 		{
-			"title": "Make Bagels",
-			"deadline": "2021-02-16",
-			"assignment": [
-				"Soya",
-				"Farnaz",
-				"Jumana"
-			],
-			"information": "Recipe at https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
-			"post": []
-		},
-		{
 			"title": "Solve todo management",
 			"deadline": "2021-06-01",
 			"assignment": [
 				"David",
-				"Soya",
 				"Stuti"
 			],
 			"information": "We have to figured out the answer",
@@ -42,6 +30,24 @@
 					"poster": "David"
 				}
 			]
+		},
+		{
+			"title": "Make Bagels",
+			"deadline": "2021-02-16",
+			"assignment": [
+				"Soya"
+			],
+			"information": "Recipe at https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
+			"post": []
+		},
+		{
+			"title": "Review thesis proposal",
+			"deadline": "2021-02-12",
+			"assignment": [
+				"Soya"
+			],
+			"information": "leave comments on stuti's thesis proposal ",
+			"post": []
 		}
 	]
 }
