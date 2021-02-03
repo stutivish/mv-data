@@ -1,6 +1,6 @@
 {
 	"showMine": false,
-	"selection": 0,
+	"selection": 2,
 	"todo": [
 		{
 			"title": "Handstand Scheduling",
@@ -28,7 +28,8 @@
 			"title": "Make Bagels",
 			"deadline": "2021-02-16",
 			"assignment": [
-				"Soya"
+				"Soya",
+				"Stuti"
 			],
 			"information": "Recipe at https://www.sophisticatedgourmet.com/2009/10/new-york-style-bagel-recipe/",
 			"post": []
