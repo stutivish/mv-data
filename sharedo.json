@@ -1,33 +1,26 @@
 {
 	"showMine": false,
-	"selection": 3,
+	"selection": 0,
 	"todo": [
 		{
 			"title": "Handstand Scheduling",
 			"deadline": "2021-02-09",
-			"assignment": [
-				"David"
-			],
+			"assignment": [],
 			"information": "I need people to specify their availability for handstand class; please fill the when2meet at https://www.when2meet.com/?10853467-GDMmx",
 			"post": [
 				{
-					"text": "Do I need to come every week?",
-					"poster": "David"
+					"text": "Do I need to come every week?"
 				}
 			]
 		},
 		{
 			"title": "Solve todo management",
 			"deadline": "2021-06-01",
-			"assignment": [
-				"David",
-				"Stuti"
-			],
+			"assignment": [],
 			"information": "We have to figured out the answer",
 			"post": [
 				{
-					"text": "Do you think we can?",
-					"poster": "David"
+					"text": "Do you think we can?"
 				}
 			]
 		},
